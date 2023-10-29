@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Yanxize</title>
-        <link>server/tags/</link>
+        <link>https://yanxize.github.io//tags/</link>
         <description>Recent content in Tags on Yanxize</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 19 Oct 2023 22:51:34 +0800</lastBuildDate><atom:link href="server/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 19 Oct 2023 22:51:34 +0800</lastBuildDate><atom:link href="https://yanxize.github.io//tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>d</title>
-        <link>server/tags/d/</link>
+        <link>https://yanxize.github.io//tags/d/</link>
         <pubDate>Thu, 19 Oct 2023 22:51:34 +0800</pubDate>
         
-        <guid>server/tags/d/</guid>
+        <guid>https://yanxize.github.io//tags/d/</guid>
         <description></description>
         </item>
         
